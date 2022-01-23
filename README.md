@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there I'm Aleksey.
+JavaScript, Node.js developer.
+Currently I'm one of the lead developers on Colesium project (Browser MMORPG)
+How to reach me: 
+ - telegam -    @compampa
+ - email -      the.miscellaneous@ya.ru
+ - instagram -  forgotten.login
