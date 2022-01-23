@@ -19,7 +19,7 @@ Hi there I'm Aleksey. <br />
 <hr/>
 JavaScript, Node.js developer. <br />
 Currently I'm one of the lead developers on Colesium project (Browser MMORPG) <br />
-How to reach me: <br />
+How to reach me:
  - telegam -    @compampa
  - email -      the.miscellaneous@ya.ru
  - instagram -  forgotten.login
