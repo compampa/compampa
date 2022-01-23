@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 <hr/>
 JavaScript, Node.js developer. <br />
 Currently I'm one of the lead developers on Colesium project (Browser MMORPG) <br />
-How to reach me:
- - telegam -    @compampa
- - email -      the.miscellaneous@ya.ru
- - instagram -  forgotten.login
+How to reach me: <br />
+<dl>
+ <dt>- telegam - </dt>
+ <dd>@compampa</dd>
+ <dt>- email - </dt>
+ <dd>the.miscellaneous@ya.ru</dd>
+ <dt>- instagram - </dt>
+ <dd>forgotten.login</dd>
+</dl>
