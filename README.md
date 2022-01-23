@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Aleksey. 👋
 
 <!--
 **compampa/compampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi there I'm Aleksey. <br />
 <hr/>
 JavaScript, Node.js developer. <br />
 Currently I'm one of the lead developers on Colesium project (Browser MMORPG) <br />
