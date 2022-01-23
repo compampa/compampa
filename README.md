@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
 ### How to reach me: 
 
- - telegam - [@compampa](https://t.me/compampa)
+ - telegam - [@compampa](https://t.me/compampa) 
  - email - the.miscellaneous@ya.ru
  - instagram - [forgotten.login](https://instagram.com/forgotten.login)
 
@@ -33,3 +33,13 @@ SQL | *ORM & DB* | `Redis`, `Postgres`, `Sequelize`, `MongoDB`
 Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
 Testing | *test* | `Jest`
 HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/createreactapp.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/redux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/reduxsaga.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/heroku.svg" />
