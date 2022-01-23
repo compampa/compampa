@@ -29,7 +29,7 @@ Techonologies | Description | Tools
 Javascript | *methodology* | **MVC**, **DOM**, **TDD**, **AJAX**, **SOLID**, **OOP**
 React | *services* | `React router DOM`, `Redux`, `Redux saga`,`Redux thunk`, `React Hooks`
 node.js | *stack* | `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
-SQL | *ORM & DB* | `Redis`, `Postgres`, `Sequelize`,
+SQL | *ORM & DB* | `Redis`, `Postgres`, `Sequelize`, `MongoDB`
 Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
 Testing | *test* | `Jest`
 HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
