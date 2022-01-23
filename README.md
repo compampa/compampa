@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## JavaScript, Node.js developer 
 
 ### Currently I'm one of the lead developers on:
-#### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG
+#### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
 ### How to reach me: 
 
  - telegam - [@compampa](https://t.me/compampa)
