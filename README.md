@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## JavaScript, Node.js developer
+#### since 2019
 ### Currently I'm one of the lead developers on:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG
 ### How to reach me: 
