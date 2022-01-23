@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>JavaScript, Node.js developer.</h2>
-Currently I'm one of the lead developers on: [Coliseum](https://dbforgame.herokuapp.com) <br/>
-How to reach me: <br />
-<ul>
- <li>- telegam - [@compampa](https://t.me/compampa)</li>
- <li>- email - the.miscellaneous@ya.ru</li>
- <li>- instagram - forgotten.login</li>
-</ul>
-[inline](https://google.com)
+## JavaScript, Node.js developer
+### Currently I'm one of the lead developers on:
+#### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG
+### How to reach me: 
+
+ - telegam - [@compampa](https://t.me/compampa)
+ - email - the.miscellaneous@ya.ru
+ - instagram - [forgotten.login](https://instagram.com/forgotten.login)
+
