@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there I'm Aleksey.
-JavaScript, Node.js developer.
-Currently I'm one of the lead developers on Colesium project (Browser MMORPG)
-How to reach me: 
+Hi there I'm Aleksey. \n
+JavaScript, Node.js developer. \n
+Currently I'm one of the lead developers on Colesium project (Browser MMORPG) \n
+How to reach me: \n
  - telegam -    @compampa
  - email -      the.miscellaneous@ya.ru
  - instagram -  forgotten.login
