@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## JavaScript, Node.js developer
-#### since 2019
+## JavaScript, Node.js developer 
+
 ### Currently I'm one of the lead developers on:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG
 ### How to reach me: 
@@ -24,3 +24,12 @@ Here are some ideas to get you started:
  - email - the.miscellaneous@ya.ru
  - instagram - [forgotten.login](https://instagram.com/forgotten.login)
 
+Techonologies | Description | Tools
+--- | --- | ---
+Javascript | *methodology* | **MVC**, **DOM**, **TDD**, **AJAX**, **SOLID**, **OOP**
+React | *services* | `React router DOM`, `Redux`, `Redux saga`,`Redux thunk`, `React Hooks`
+node.js | *stack* | `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
+SQL | *ORM & DB* | `Redis`, `Postgres`, `Sequelize`,
+Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
+Testing | *test* | `Jest`
+HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
