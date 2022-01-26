@@ -54,3 +54,5 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Jest](https://img.shields.io/badge/-jest-090909?style=for-the-badge&logo=jest)
+
+![](https://visitor-badge.glitch.me/badge?page_id=compampa)
