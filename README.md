@@ -34,6 +34,7 @@ Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
 Testing | *test* | `Jest`
 HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
 
+<--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/createreactapp.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
@@ -43,7 +44,7 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/redux.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/reduxsaga.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/heroku.svg" />
-
+-->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
