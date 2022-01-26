@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## JavaScript, Node.js developer 
 
-### Currently I'm one of the contributers:
+### Currently I'm one of the contributors:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
 ### How to reach me: 
 
