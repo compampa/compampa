@@ -64,9 +64,9 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 
 
 <h2>Hi there!</h2>
-  <h1>Currently you're on the developer's page</h1>
-  <p> stack is on the table below </p>
-  <p>May gladly represent you one of my pets: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </p>
+  <h1>Currently you're on a developer's page</h1>
+  <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
+  <p>I may gladly represent you one of my pets: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </p>
 
 
 <h2 align="center">💬 Find me:</h2>
