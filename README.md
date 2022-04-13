@@ -59,7 +59,7 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 -->
 
 <div align="center">
-  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/giphy.gif" alt="header"/>
+  <img src="https://github.com/compampa/compampa/blob/main/assets/matrix.gif" alt="header"/>
 </div>
 
 
