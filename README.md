@@ -64,8 +64,8 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 
 
 <h2>Hi there!</h2>
-  <h1>I'm Aleksey</h1><h2>I am a Fullstack JavaScript/TypeScript developer. </h2>
-  <h3>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </h3>
+  <h1>I'm Aleksey</h1><p>I am a Fullstack JavaScript/TypeScript developer. </p>
+  <p>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </p>
 
 
 <h2 align="center">💬 Find me:</h2>
