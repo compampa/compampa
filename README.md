@@ -85,8 +85,6 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
   <a target="_blank"href="https://t.me/compampa"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">My skills</h2>
-<div align="center">
 
 Techonologies | Description | Tools
 --- | --- | ---
@@ -124,8 +122,6 @@ Testing | *test* | `Jest` ![postman](https://img.shields.io/badge/postman-20232A
 <!-- ![github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github) -->
 <!-- ![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->
  
- </div>
-
 <div align="center">
  <br> <br>
 
