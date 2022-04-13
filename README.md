@@ -70,15 +70,11 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
   <br> <br>
 </p>
 
-
-<h2 align="center">My projects 👨‍💻</h2>
-<p align="center">
-  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
-  </samp>
-</p>
+  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </samp>
 
 
-<h2 align="center">💬 Reach me on</h2>
+
+<h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
   <a target="_blank"href="mailto:the.miscellaneous@ya.ru"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/compampa"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
