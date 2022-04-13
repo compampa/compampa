@@ -116,24 +116,19 @@ Testing | *test* | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-t
 
   <h2> 📈 GitHub Activity Graph: </h2>
   
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=compampa&hide_border=true&theme=redical)
+![compampa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=compampa&hide_border=true&theme=redical)
   
   <br> <br>
   
-![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=compampa&theme=radical&layout=compact)
+![compampa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=compampa&theme=radical&layout=compact)
   
 <br> <br>
   
-![d4rsen's github stats](https://github-readme-stats.vercel.app/api?username=compampa&show_icons=true&theme=radical&include_all_commits=true)
+![compampa's github stats](https://github-readme-stats.vercel.app/api?username=compampa&show_icons=true&theme=radical&include_all_commits=true)
   
   <br> <br>
   
   
-  <div align="center">
-  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
-</div>
-  
- <br> <br>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=compampa)
   
