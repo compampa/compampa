@@ -4,8 +4,14 @@
 
 [//]: # (</div>)
 
-<div>
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
+<div style="width: 100%; display: flex; justify-content: center">
+    <div style="width: 40%">
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
+    </div>
+    <div style="width: 40%">
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </div>
+
 </div>
 
 
@@ -81,6 +87,7 @@ Testing | test                        | ![Jest](https://img.shields.io/badge/-je
 [//]: # (<!-- ![github]&#40;https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&#41; -->)
 
 [//]: # (<!-- ![npm]&#40;https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&#41; -->)
+
 
 <div align="center">
 
