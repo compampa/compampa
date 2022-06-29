@@ -58,14 +58,11 @@ HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Materi
 ![](https://visitor-badge.glitch.me/badge?page_id=compampa)
 -->
 
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://github.com/compampa/compampa/blob/main/assets/matrix-1.gif" alt="header"/>)
-
-[//]: # (</div>)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="header"/>
+  <img src="https://github.com/compampa/compampa/blob/main/assets/matrix-1.gif" alt="header"/>
 </div>
+
+
 
   <h1>Currently you're on a developer's page</h1>
   <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
@@ -93,10 +90,8 @@ services* | ![Nginx](https://img.shields.io/badge/nginx-20232A?style=for-the-bad
 Testing | *
 test* | ![Jest](https://img.shields.io/badge/-jest-20232A?style=for-the-badge&logo=jest&logoColor=brown) ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) ![eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6) | *
-
 preprocessors &
-principles*
-| ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass) ![postcss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A) ![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma) ![BootsTrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
+principles* | ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass) ![postcss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A) ![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma) ![BootsTrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
 
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) -->
@@ -126,9 +121,6 @@ principles*
 
 <div align="center">
  <br> <br>
-
-
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=compampa)
 
